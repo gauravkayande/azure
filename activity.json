@@ -1,0 +1,27 @@
+{
+  "name": "azure",
+  "version": "0.0.1",
+  "type": "flogo:activity",
+  "description": "activity description",
+  "author": "Gaurav Kayandepatil gkayande@tibco.com",
+  "inputs":[
+    {
+      "name": "StorageName",
+      "type": "string"
+    },
+    {
+      "name": "SAS_token",
+      "type": "string"
+    },
+	  {
+      "name": "QueueName",
+      "type": "string"
+    }
+  ],
+  "outputs": [
+    {
+      "name": "Status",
+      "type": "string"
+    }
+  ]
+}
