@@ -2,6 +2,7 @@
   "name": "azure",
   "version": "0.0.1",
   "type": "flogo:activity",
+  "ref": "github.com/gauravkayande/azure"
   "description": "activity description",
   "author": "Gaurav Kayandepatil gkayande@tibco.com",
   "inputs":[
