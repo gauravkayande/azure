@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "type": "flogo:activity",
   "ref": "github.com/gauravkayande/azure"
-  "description": "activity description",
+  "description": "Activity to create queue in azure storage",
   "author": "Gaurav Kayandepatil gkayande@tibco.com",
   "inputs":[
     {
